@@ -1,3 +1,8 @@
 .ipynb_checkpoints
 mantamonis_analysis.xlsx
 
+# Ignore everything in the bootcamp folder by default
+bioinformatics_freecodecamp/*
+
+# But keep Lab 4 (Part 1) notebook tracked
+!bioinformatics_freecodecamp/CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb

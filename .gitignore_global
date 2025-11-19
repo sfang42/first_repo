@@ -1,0 +1,19 @@
+# Ignore everything by default
+*
+
+# But keep the .gitignore file itself
+!.gitignore
+
+# Keep the main project folders we need
+!alphafold_review/
+!bioinformatics_freecodecamp/
+
+# Keep only the important notebook inside bioinformatics_freecodecamp
+!bioinformatics_freecodecamp/CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
+
+# Keep specific lab files in the root directory
+!filtered_mantamonis.xlsx
+!practice_code.ipynb
+!preliminary_classification.png
+
+
