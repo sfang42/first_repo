@@ -7,3 +7,4 @@ bioinformatics_freecodecamp/*
 
 # Keep Lab 4 (Part 1) notebook tracked
 !bioinformatics_freecodecamp/CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
+.gitignore_global
